@@ -25,6 +25,7 @@ public class RDS {
                 .addAnnotatedClass(ConversationLine.class)
                 .configure("/hibernate.cfg.xml")
                 .buildSessionFactory();
+        //
         Session session = sessionFactory.openSession();
         session.close();
 
