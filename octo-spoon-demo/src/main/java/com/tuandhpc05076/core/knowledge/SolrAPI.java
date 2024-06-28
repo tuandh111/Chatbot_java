@@ -1,6 +1,7 @@
 package com.tuandhpc05076.core.knowledge;
 
 import com.tuandhpc05076.config.SolrConfig;
+import com.tuandhpc05076.demo.Document;
 import org.apache.solr.client.solrj.SolrClient;
 import org.apache.solr.client.solrj.SolrQuery;
 import org.apache.solr.client.solrj.SolrServerException;
@@ -58,4 +59,29 @@ public class SolrAPI {
         }
         return "";
     }
+    public void solrIndexer(Document document) throws IOException, SolrServerException {
+        SolrClient solr = new HttpSolrClient.Builder(solrUrl).build();
+
+        // Tạo một SolrInputDocument để lưu trữ dữ liệu
+        SolrInputDocument solrDoc = new SolrInputDocument();
+        solrDoc.addField("id", document.getId()); // Định danh (ID) của tài liệu
+        solrDoc.addField("content", document.getContent()); // Nội dung của tài liệu
+        solrDoc.addField("key", document.getKey()); // Khóa (key) của tài liệu
+        System.out.println(solrDoc);
+        // Thêm SolrInputDocument vào Solr
+        solr.add(solrDoc);
+        solr.commit();
+        solr.close();
+    }
+    public String deleteDocumentFromSolr(String id) {
+        try (SolrClient solr = new HttpSolrClient.Builder(solrUrl).build()) {
+            solr.deleteById(id);
+            solr.commit();
+            return "successfully";
+        } catch (SolrServerException | IOException e) {
+            e.printStackTrace();
+            return "fail";
+        }
+    }
+
 }

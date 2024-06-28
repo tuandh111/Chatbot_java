@@ -21,7 +21,7 @@ public class TextAnalyzer {
             index= sentences.size()- tfIdfList.size();
         }
         // Xếp hạng các câu theo điểm TF-IDF của chúng
-        List<Integer> sentenceIndices = IntStream.range(0, sentences.size()-index)
+        List<Integer> sentenceIndices = IntStream.range(0, sentences.size())
                 .boxed()
                 .sorted((i, j) -> Double.compare(getScore(tfIdfList.get(j)), getScore(tfIdfList.get(i))))
                 .limit(noSentences)
@@ -37,7 +37,7 @@ public class TextAnalyzer {
 
     private List<String> tokenizeTextInSentences(String text) {
         //Token hóa văn bản thành câu
-        BreakIterator sentenceIterator = BreakIterator.getSentenceInstance(Locale.US);
+        BreakIterator sentenceIterator = BreakIterator.getSentenceInstance(Locale.ENGLISH);
         sentenceIterator.setText(text);
         List<String> sentences = new ArrayList<>();
         int start = sentenceIterator.first();

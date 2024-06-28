@@ -65,7 +65,7 @@ public class Agent {
         messageParser.printMessage(TelegramConfig.MESSAGE_RECEIVED, message);
 
          //save to database
-        rds.saveMessage(conversation, answer, TelegramConfig.MESSAGE_RECEIVED);
+        //rds.saveMessage(conversation, answer, TelegramConfig.MESSAGE_RECEIVED);
 
         // deliver the message
         telegramDelivery.sendMessage(conversation, answer);
