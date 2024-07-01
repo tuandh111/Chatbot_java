@@ -1,6 +1,0 @@
-
-`	java:S112"FDefine and throw a dedicated exception instead of using a generic one.(Ç¥Æßûÿÿÿÿ
-o	java:S115"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(–ËÎˆ
-@	java:S106,"+Replace this use of System.out by a logger.(¥ğô
-a
-java:S49685"?Replace this type parametrization by the 'final' type `String`.(Àî¯Ëøÿÿÿÿ8‡ÊºáÒ1

@@ -1,0 +1,430 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="04acd023-7a84-4d71-b683-62a9ab5f917d" name="Changes" comment="commit">
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/jarRepositories.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/0/6/068982e1bc54c11f5a6aead3f5778548c07bbdac" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/0/c/0c25ed6d88d95a10e55fde49735b48ec37e5dc67" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/1/5/1570d9649919b4f45486f5912a68eb3f66f7e8ec" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/1/5/15aad93b27324cf2d02308bf46fcd1043d37e596" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/1/d/1d6b4a92b55cc16055eb30c6328d28c0387742ca" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/2/0/20f952fbc5c75abc54815136aaa9b32929d1ebe8" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/2/7/278af2158fb208e47fbfae85866cd1edfa640b49" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/3/a/3a972b0d4974def080b30d6b755c7df9b4126f15" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/4/4/442292b8a7efeabbe4cc176709b833b1792140ec" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/4/a/4afb99ef94292d69fdfe5a8dc14f964888cbe29e" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/5/3/53efd36f55424b9bf58f6bb44fef7cf7dcaa7083" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/7/c/7ccdfadbc7e9a0a5451619c82b08b510d06d28d2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/8/0/807cc87190ca41bf290147fdbb9bd122a3246d8d" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/8/2/82c57862fa1bf5d5f0f81df98840ec8a65a0010e" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/8/3/83e3a7af92333e7868acafa6f03ec7a55fcb7378" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/a/5/a56e52bebca857b5921c2804ae4bb7a3ae6cb270" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/a/a/aa7ad18aa2257046f7b116fb3c37be5d7e3e3cdd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/b/0/b0494ee7d06293f2154fbc346c30264b08f38eb5" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/b/5/b50f5fbac6a778576bb95ed77cb191974e3f74a5" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/c/1/c1a97771e008515eda733fcec7066ac1995fdea5" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/c/1/c1ce84476d779354e366692b36b83cf0fb626953" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/c/a/ca8f83d1aa0f47f3d17bc9b210067d1328912a0e" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/c/a/cad4fae2436590ea9cdca7b25cba51d1bfd3d6a1" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/c/b/cbf2cfb14a1f9637dbbfd5cc21e374f9f16fb9a1" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/c/c/ccd3cdc897d8222e02dabfb2de247af9c67ae937" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/f/b/fbe57c5e8724fc988ef857853fff4fdec9e7251b" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/0/6/068982e1bc54c11f5a6aead3f5778548c07bbdac" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/0/c/0c25ed6d88d95a10e55fde49735b48ec37e5dc67" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/1/5/1570d9649919b4f45486f5912a68eb3f66f7e8ec" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/1/5/15aad93b27324cf2d02308bf46fcd1043d37e596" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/1/d/1d6b4a92b55cc16055eb30c6328d28c0387742ca" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/2/0/20f952fbc5c75abc54815136aaa9b32929d1ebe8" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/2/7/278af2158fb208e47fbfae85866cd1edfa640b49" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/3/a/3a972b0d4974def080b30d6b755c7df9b4126f15" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/4/4/442292b8a7efeabbe4cc176709b833b1792140ec" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/4/a/4afb99ef94292d69fdfe5a8dc14f964888cbe29e" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/5/3/53efd36f55424b9bf58f6bb44fef7cf7dcaa7083" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/7/c/7ccdfadbc7e9a0a5451619c82b08b510d06d28d2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/8/0/807cc87190ca41bf290147fdbb9bd122a3246d8d" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/8/2/82c57862fa1bf5d5f0f81df98840ec8a65a0010e" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/8/3/83e3a7af92333e7868acafa6f03ec7a55fcb7378" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/a/5/a56e52bebca857b5921c2804ae4bb7a3ae6cb270" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/a/a/aa7ad18aa2257046f7b116fb3c37be5d7e3e3cdd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/b/0/b0494ee7d06293f2154fbc346c30264b08f38eb5" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/b/5/b50f5fbac6a778576bb95ed77cb191974e3f74a5" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/c/1/c1a97771e008515eda733fcec7066ac1995fdea5" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/c/1/c1ce84476d779354e366692b36b83cf0fb626953" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/c/a/ca8f83d1aa0f47f3d17bc9b210067d1328912a0e" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/c/a/cad4fae2436590ea9cdca7b25cba51d1bfd3d6a1" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/c/b/cbf2cfb14a1f9637dbbfd5cc21e374f9f16fb9a1" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/c/c/ccd3cdc897d8222e02dabfb2de247af9c67ae937" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/f/b/fbe57c5e8724fc988ef857853fff4fdec9e7251b" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/index.pb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ChatBot.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HELP.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mvnw" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mvnw.cmd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/tuandhpc05076/OctospoonApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/tuandhpc05076/client/TelegramDelivery.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/tuandhpc05076/client/TelegramInbox.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/tuandhpc05076/config/DbConfig.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/tuandhpc05076/config/SolrConfig.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/tuandhpc05076/config/TelegramConfig.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/tuandhpc05076/contacts/Conversation.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/tuandhpc05076/contacts/ConversationLine.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/tuandhpc05076/contacts/Conversations.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/tuandhpc05076/contacts/Person.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/tuandhpc05076/core/Agent.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/tuandhpc05076/core/knowledge/KnowledgeBase.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/tuandhpc05076/core/knowledge/SolrAPI.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/tuandhpc05076/core/knowledge/Wikipedia.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/tuandhpc05076/core/lifecycle/DecisionEngine.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/tuandhpc05076/core/lifecycle/Flow.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/tuandhpc05076/core/lifecycle/State.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/tuandhpc05076/core/nlp/Pipeline.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/tuandhpc05076/core/nlp/SentimentAnalyzer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/tuandhpc05076/core/nlp/TextAnalyzer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/tuandhpc05076/demo/Document.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/tuandhpc05076/demo/VietnameseTextProcessor.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/tuandhpc05076/demo/demoStream.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/tuandhpc05076/helper/MessageParser.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/tuandhpc05076/helper/TextUtils.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/tuandhpc05076/persistent/RDS.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/tuandhpc05076/rest/KnowledgeReq.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/tuandhpc05076/rest/SolrReq.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/tuandhpc05076/rest/TelegramReq.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/main.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/application.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/hibernate.cfg.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/hibernate.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/setupCommands" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/tuandhpc05076/OctospoonApplicationTests.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/test.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/application.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/tuandhpc05076/OctospoonApplication.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/tuandhpc05076/client/TelegramDelivery.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/tuandhpc05076/client/TelegramInbox$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/tuandhpc05076/client/TelegramInbox.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/tuandhpc05076/config/DbConfig.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/tuandhpc05076/config/SolrConfig.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/tuandhpc05076/config/TelegramConfig.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/tuandhpc05076/contacts/Conversation.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/tuandhpc05076/contacts/ConversationLine.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/tuandhpc05076/contacts/Conversations.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/tuandhpc05076/contacts/Person.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/tuandhpc05076/core/Agent.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/tuandhpc05076/core/knowledge/KnowledgeBase.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/tuandhpc05076/core/knowledge/SolrAPI.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/tuandhpc05076/core/knowledge/Wikipedia.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/tuandhpc05076/core/lifecycle/DecisionEngine.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/tuandhpc05076/core/lifecycle/Flow.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/tuandhpc05076/core/lifecycle/State.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/tuandhpc05076/core/nlp/Pipeline.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/tuandhpc05076/core/nlp/SentimentAnalyzer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/tuandhpc05076/core/nlp/TextAnalyzer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/tuandhpc05076/demo/Document.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/tuandhpc05076/demo/VietnameseTextProcessor.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/tuandhpc05076/demo/demoStream.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/tuandhpc05076/helper/MessageParser.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/tuandhpc05076/helper/TextUtils.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/tuandhpc05076/persistent/RDS.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/tuandhpc05076/rest/KnowledgeReq.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/tuandhpc05076/rest/SolrReq.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/tuandhpc05076/rest/TelegramReq.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/hibernate.cfg.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/hibernate.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/setupCommands" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/tuandhpc05076/OctospoonApplicationTests.class" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="GoLibraries">
+    <option name="indexEntireGoPath" value="true" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="2" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 8
+}</component>
+  <component name="ProjectId" id="2ZYgA7ttVxf5LaeakqJd5EMryUP" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.CallAPIDemo.executor": "Run",
+    "Application.OctospoonApplication.executor": "Run",
+    "Application.VietnameseTextProcessor.executor": "Run",
+    "Application.demoStream.executor": "Run",
+    "RequestMappingsPanelOrder0": "0",
+    "RequestMappingsPanelOrder1": "1",
+    "RequestMappingsPanelWidth0": "75",
+    "RequestMappingsPanelWidth1": "75",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.go.formatter.settings.were.checked": "true",
+    "RunOnceActivity.go.migrated.go.modules.settings": "true",
+    "Spring Boot.OctospoonApplication.executor": "Run",
+    "WebServerToolWindowFactoryState": "false",
+    "dart.analysis.tool.window.visible": "false",
+    "git-widget-placeholder": "main",
+    "go.import.settings.migrated": "true",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "D:/ChatBot/GITHUB/Chatbot_java/chatbot",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "ide.date.format",
+    "spring.configuration.checksum": "a70a2469a77b352ce7a46600efe642d2",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RunManager" selected="Application.CallAPIDemo">
+    <configuration name="CallAPIDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.tuandhpc05076.demo.CallAPIDemo" />
+      <module name="ChatBot" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.tuandhpc05076.demo.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="OctospoonApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.tuandhpc05076.OctospoonApplication" />
+      <module name="ChatBot" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.tuandhpc05076.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="VietnameseTextProcessor" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.tuandhpc05076.demo.VietnameseTextProcessor" />
+      <module name="ChatBot" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.tuandhpc05076.demo.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="demoStream" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.tuandhpc05076.demo.demoStream" />
+      <module name="ChatBot" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.tuandhpc05076.demo.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="OctospoonApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <option name="FRAME_DEACTIVATION_UPDATE_POLICY" value="UpdateClassesAndResources" />
+      <module name="ChatBot" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.tuandhpc05076.OctospoonApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.CallAPIDemo" />
+        <item itemvalue="Application.OctospoonApplication" />
+        <item itemvalue="Application.VietnameseTextProcessor" />
+        <item itemvalue="Application.demoStream" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SvnConfiguration">
+    <configuration>C:\Users\Hoang Tuan\AppData\Roaming\Subversion</configuration>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="04acd023-7a84-4d71-b683-62a9ab5f917d" name="Changes" comment="" />
+      <created>1702604286428</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1702604286428</updated>
+      <workItem from="1702604290460" duration="2351000" />
+      <workItem from="1702606701035" duration="652000" />
+      <workItem from="1702625370813" duration="613000" />
+      <workItem from="1702626004179" duration="2332000" />
+      <workItem from="1702630497570" duration="2384000" />
+      <workItem from="1702724475678" duration="5529000" />
+      <workItem from="1704100564015" duration="14073000" />
+      <workItem from="1704154883191" duration="288000" />
+      <workItem from="1704165593539" duration="2635000" />
+      <workItem from="1704184439182" duration="4410000" />
+      <workItem from="1704190587469" duration="947000" />
+      <workItem from="1704248354270" duration="6808000" />
+      <workItem from="1704278322404" duration="5166000" />
+      <workItem from="1704341421675" duration="10000" />
+      <workItem from="1704422040778" duration="4912000" />
+      <workItem from="1704430040398" duration="33000" />
+      <workItem from="1705719678810" duration="9594000" />
+      <workItem from="1705741105781" duration="4614000" />
+      <workItem from="1705745743584" duration="365000" />
+      <workItem from="1705746601128" duration="426000" />
+      <workItem from="1705747088470" duration="967000" />
+      <workItem from="1705759006900" duration="13000" />
+      <workItem from="1705760384620" duration="4715000" />
+      <workItem from="1705805582347" duration="2983000" />
+      <workItem from="1705808606555" duration="871000" />
+      <workItem from="1705811380593" duration="2731000" />
+      <workItem from="1705822114274" duration="3358000" />
+      <workItem from="1705842307582" duration="5521000" />
+      <workItem from="1705889974321" duration="1442000" />
+      <workItem from="1705892809906" duration="813000" />
+      <workItem from="1705893740086" duration="239000" />
+      <workItem from="1705894302318" duration="26000" />
+      <workItem from="1705894531297" duration="70000" />
+      <workItem from="1705895103505" duration="863000" />
+      <workItem from="1705895987687" duration="393000" />
+      <workItem from="1705896396215" duration="386000" />
+      <workItem from="1705898723713" duration="9000" />
+      <workItem from="1705899449934" duration="36000" />
+      <workItem from="1705991828675" duration="778000" />
+      <workItem from="1706068600604" duration="237000" />
+      <workItem from="1706084705612" duration="4310000" />
+      <workItem from="1706092767025" duration="1383000" />
+      <workItem from="1706098726463" duration="492000" />
+      <workItem from="1706185835471" duration="1213000" />
+      <workItem from="1706189307660" duration="742000" />
+      <workItem from="1706236624162" duration="30000" />
+      <workItem from="1706350739582" duration="4000" />
+      <workItem from="1706364745807" duration="309000" />
+      <workItem from="1706514531128" duration="289000" />
+      <workItem from="1714365080300" duration="2327000" />
+      <workItem from="1714367443636" duration="1962000" />
+      <workItem from="1714546347540" duration="601000" />
+      <workItem from="1714616719227" duration="495000" />
+      <workItem from="1714654194588" duration="11000" />
+      <workItem from="1715007711369" duration="18000" />
+      <workItem from="1715080474568" duration="598000" />
+      <workItem from="1715241512177" duration="51000" />
+      <workItem from="1717723663534" duration="532000" />
+      <workItem from="1717902602559" duration="7007000" />
+      <workItem from="1717984239325" duration="9000" />
+      <workItem from="1717990128492" duration="5109000" />
+      <workItem from="1718007535466" duration="10000" />
+      <workItem from="1718162425703" duration="912000" />
+      <workItem from="1718333976955" duration="2865000" />
+      <workItem from="1718443528298" duration="5267000" />
+      <workItem from="1719578029651" duration="312000" />
+      <workItem from="1719578379592" duration="88000" />
+      <workItem from="1719578498206" duration="57000" />
+      <workItem from="1719578586355" duration="662000" />
+      <workItem from="1719579991533" duration="100000" />
+      <workItem from="1719580275459" duration="516000" />
+      <workItem from="1719658338146" duration="145000" />
+      <workItem from="1719661614038" duration="12000" />
+      <workItem from="1719800032910" duration="84000" />
+    </task>
+    <task id="LOCAL-00001" summary="commit">
+      <option name="closed" value="true" />
+      <created>1719578423334</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1719578423334</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="commit" />
+  </component>
+  <component name="VgoProject">
+    <integration-enabled>false</integration-enabled>
+    <settings-migrated>true</settings-migrated>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/tuandhpc05076/helper/TextUtils.java</url>
+          <line>32</line>
+          <option name="timeStamp" value="30" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/tuandhpc05076/core/Agent.java</url>
+          <line>49</line>
+          <option name="timeStamp" value="77" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/tuandhpc05076/core/Agent.java</url>
+          <line>60</line>
+          <option name="timeStamp" value="78" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/main/java/com/tuandhpc05076/rest/SolrReq.java</url>
+          <line>25</line>
+          <properties class="com.tuandhpc05076.rest.SolrReq" method="addDocument">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="90" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+    <pin-to-top-manager>
+      <pinned-members>
+        <PinnedItemInfo parentTag="java.lang.Integer" memberName="value" />
+        <PinnedItemInfo parentTag="edu.stanford.nlp.pipeline.Annotation" memberName="values" />
+      </pinned-members>
+    </pin-to-top-manager>
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>

@@ -1,6 +1,0 @@
-
-k	java:S117&"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ªÖÁ™øÿÿÿÿ
-k	java:S117;"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ûæïÐýÿÿÿÿ
-g	java:S116"RRename this field "chat_id" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÿ’–¿
-c	java:S1007"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ˆÕñ½
-h	java:S100;"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ûæïÐýÿÿÿÿ
