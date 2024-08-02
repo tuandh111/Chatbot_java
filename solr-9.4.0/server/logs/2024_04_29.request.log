@@ -1,0 +1,2 @@
+127.0.0.1 - - [29/Apr/2024:04:42:25 +0000] "GET /solr/admin/info/system?wt=javabin&version=2 HTTP/2.0" 200 2809
+127.0.0.1 - - [29/Apr/2024:05:24:06 +0000] "GET /solr/octo-spoon/select?q=content%3AHoang+Tuan+OR+key%3AHoang+Tuan&start=0&rows=1&wt=javabin&version=2 HTTP/1.1" 200 526

@@ -1,0 +1,64 @@
+2024-06-09 03:49:20.375 INFO  (main) [] o.e.j.s.Server jetty-10.0.17; built: 2023-10-09T18:22:21.150Z; git: af15f12297adf5c5083e1f2f8f4c5974438bca25; jvm 17.0.9+11-LTS-201
+2024-06-09 03:49:21.184 WARN  (main) [] o.e.j.u.DeprecationWarning Using @Deprecated Class org.eclipse.jetty.servlet.listener.ELContextCleaner
+2024-06-09 03:49:21.232 INFO  (main) [] o.a.s.s.CoreContainerProvider Using logger factory org.apache.logging.slf4j.Log4jLoggerFactory
+2024-06-09 03:49:21.246 INFO  (main) [] o.a.s.s.CoreContainerProvider  ___      _       Welcome to Apache Solr™ version 9.4.0
+2024-06-09 03:49:21.246 INFO  (main) [] o.a.s.s.CoreContainerProvider / __| ___| |_ _   Starting in standalone mode on port 8983
+2024-06-09 03:49:21.246 INFO  (main) [] o.a.s.s.CoreContainerProvider \__ \/ _ \ | '_|  Install dir: D:\ChatBot\solr\solr-9.4.0
+2024-06-09 03:49:21.247 INFO  (main) [] o.a.s.s.CoreContainerProvider |___/\___/_|_|    Start time: 2024-06-09T03:49:21.247284300Z
+2024-06-09 03:49:21.255 INFO  (main) [] o.a.s.s.CoreContainerProvider Solr started with "-XX:+CrashOnOutOfMemoryError" that will crash on any OutOfMemoryError exception. The cause of the OOME will be logged in the crash file at the following path: D:\ChatBot\solr\solr-9.4.0\server\logs\jvm_crash_13008.log
+2024-06-09 03:49:21.311 INFO  (main) [] o.a.s.s.CoreContainerProvider Solr Home: D:\ChatBot\solr\solr-9.4.0\server\solr (source: system property: solr.solr.home)
+2024-06-09 03:49:21.349 INFO  (main) [] o.a.s.c.SolrXmlConfig Loading solr.xml from D:\ChatBot\solr\solr-9.4.0\server\solr\solr.xml
+2024-06-09 03:49:21.426 INFO  (main) [] o.a.s.c.SolrResourceLoader Added 1 libs to classloader, from paths: [/D:/ChatBot/solr/solr-9.4.0/lib]
+2024-06-09 03:49:23.723 INFO  (main) [] o.a.s.u.t.SimplePropagator Always-on trace id generation enabled.
+2024-06-09 03:49:24.961 WARN  (main) [] o.a.s.u.StartupLoggingUtils Jetty request logging enabled. Will retain logs for last 3 days. See chapter "Configuring Logging" in reference guide for how to configure.
+2024-06-09 03:49:24.968 WARN  (main) [] o.a.s.c.CoreContainer Not all security plugins configured!  authentication=disabled authorization=disabled.  Solr is only as secure as you make it. Consider configuring authentication/authorization before exposing Solr to users internal or external.  See https://s.apache.org/solrsecurity for more info
+2024-06-09 03:49:25.666 INFO  (main) [] o.a.s.c.CorePropertiesLocator Found 1 core definitions underneath D:\ChatBot\solr\solr-9.4.0\server\solr
+2024-06-09 03:49:25.667 INFO  (main) [] o.a.s.c.CorePropertiesLocator Cores are: [octo-spoon]
+2024-06-09 03:49:25.954 INFO  (coreLoadExecutor-11-thread-1) [ x:octo-spoon] o.a.s.c.SolrResourceLoader Added 90 libs to classloader, from paths: [/D:/ChatBot/solr/solr-9.4.0/modules/clustering/lib, /D:/ChatBot/solr/solr-9.4.0/modules/extraction/lib, /D:/ChatBot/solr/solr-9.4.0/modules/langid/lib, /D:/ChatBot/solr/solr-9.4.0/modules/ltr/lib, /D:/ChatBot/solr/solr-9.4.0/modules/scripting/lib]
+2024-06-09 03:49:26.253 INFO  (coreLoadExecutor-11-thread-1) [ x:octo-spoon] o.a.s.c.SolrConfig Using Lucene MatchVersion: 9.8.0
+2024-06-09 03:49:26.276 INFO  (coreLoadExecutor-11-thread-1) [ x:octo-spoon] o.a.s.u.SolrIndexConfig IndexWriter infoStream solr logging is enabled
+2024-06-09 03:49:26.601 WARN  (main) [] o.g.j.m.i.MessagingBinders A class javax.activation.DataSource for a default provider MessageBodyWriter<javax.activation.DataSource> was not found. The provider is not available.
+2024-06-09 03:49:26.652 INFO  (coreLoadExecutor-11-thread-1) [ x:octo-spoon] o.a.s.s.IndexSchema Schema name=example
+2024-06-09 03:49:28.540 INFO  (main) [] o.a.s.j.SolrRequestAuthorizer Creating a new SolrRequestAuthorizer
+2024-06-09 03:49:28.817 INFO  (coreLoadExecutor-11-thread-1) [ x:octo-spoon] o.a.s.r.RestManager Registered ManagedResource impl org.apache.solr.rest.schema.analysis.ManagedWordSetResource for path /schema/analysis/stopwords/english
+2024-06-09 03:49:28.819 INFO  (coreLoadExecutor-11-thread-1) [ x:octo-spoon] o.a.s.r.RestManager Registered ManagedResource impl org.apache.solr.rest.schema.analysis.ManagedSynonymGraphFilterFactory$SynonymManager for path /schema/analysis/synonyms/english
+2024-06-09 03:49:28.819 INFO  (coreLoadExecutor-11-thread-1) [ x:octo-spoon] o.a.s.r.RestManager Added observer of type org.apache.solr.rest.schema.analysis.ManagedStopFilterFactory to existing ManagedResource /schema/analysis/stopwords/english
+2024-06-09 03:49:28.819 INFO  (coreLoadExecutor-11-thread-1) [ x:octo-spoon] o.a.s.r.RestManager Added observer of type org.apache.solr.rest.schema.analysis.ManagedSynonymGraphFilterFactory to existing ManagedResource /schema/analysis/synonyms/english
+2024-06-09 03:49:28.834 INFO  (coreLoadExecutor-11-thread-1) [ x:octo-spoon] o.a.s.s.IndexSchema Loaded schema example/1.6 with uniqueid field id
+2024-06-09 03:49:28.955 INFO  (coreLoadExecutor-11-thread-1) [ x:octo-spoon] o.a.s.c.CoreContainer Creating SolrCore 'octo-spoon' using configuration from instancedir D:\ChatBot\solr\solr-9.4.0\server\solr\octo-spoon, trusted=true
+2024-06-09 03:49:29.038 INFO  (coreLoadExecutor-11-thread-1) [ x:octo-spoon] o.a.s.c.SolrCore Opening new SolrCore at [D:\ChatBot\solr\solr-9.4.0\server\solr\octo-spoon], dataDir=[D:\ChatBot\solr\solr-9.4.0\server\solr\octo-spoon\data\]
+2024-06-09 03:49:30.052 INFO  (coreLoadExecutor-11-thread-1) [ x:octo-spoon] o.a.s.j.SolrRequestAuthorizer Creating a new SolrRequestAuthorizer
+2024-06-09 03:49:30.109 INFO  (main) [] o.e.j.s.h.ContextHandler Started o.e.j.w.WebAppContext@1d572e62{solr-jetty-context.xml,/solr,file:///D:/ChatBot/solr/solr-9.4.0/server/solr-webapp/webapp/,AVAILABLE}{D:\ChatBot\solr\solr-9.4.0\server/solr-webapp/webapp}
+2024-06-09 03:49:30.112 INFO  (coreLoadExecutor-11-thread-1) [ x:octo-spoon] o.a.s.u.UpdateHandler Using UpdateLog implementation: org.apache.solr.update.UpdateLog
+2024-06-09 03:49:30.112 INFO  (coreLoadExecutor-11-thread-1) [ x:octo-spoon] o.a.s.u.UpdateLog Initializing UpdateLog: dataDir= defaultSyncLevel=FLUSH numRecordsToKeep=100 maxNumLogsToKeep=10 numVersionBuckets=65536
+2024-06-09 03:49:30.134 INFO  (main) [] o.e.j.s.RequestLogWriter Opened D:\ChatBot\solr\solr-9.4.0\server\logs\2024_06_09.request.log
+2024-06-09 03:49:30.160 INFO  (coreLoadExecutor-11-thread-1) [ x:octo-spoon] o.a.s.u.CommitTracker Hard AutoCommit: if uncommitted for 15000ms; 
+2024-06-09 03:49:30.164 INFO  (main) [] o.e.j.s.AbstractConnector Started ServerConnector@3a94964{HTTP/1.1, (http/1.1, h2c)}{127.0.0.1:8983}
+2024-06-09 03:49:30.160 INFO  (coreLoadExecutor-11-thread-1) [ x:octo-spoon] o.a.s.u.CommitTracker Soft AutoCommit: if uncommitted for 3000ms; 
+2024-06-09 03:49:30.167 INFO  (main) [] o.e.j.s.Server Started Server@f9879ac{STARTING}[10.0.17,sto=0] @14198ms
+2024-06-09 03:49:30.475 INFO  (qtp854733477-18) [ t:localhost-1] o.a.s.s.HttpSolrCall [admin] webapp=null path=/admin/info/system params={wt=javabin&version=2} status=0 QTime=90
+2024-06-09 03:49:30.727 INFO  (coreLoadExecutor-11-thread-1) [ x:octo-spoon] o.a.s.r.ManagedResourceStorage File-based storage initialized to use dir: D:\ChatBot\solr\solr-9.4.0\server\solr\octo-spoon\conf
+2024-06-09 03:49:30.731 INFO  (coreLoadExecutor-11-thread-1) [ x:octo-spoon] o.a.s.r.ManagedResourceStorage Loaded LinkedHashMap at path _rest_managed.json using file:dir=D:\ChatBot\solr\solr-9.4.0\server\solr\octo-spoon\conf
+2024-06-09 03:49:30.731 INFO  (coreLoadExecutor-11-thread-1) [ x:octo-spoon] o.a.s.r.ManagedResource Loaded initArgs {} for /rest/managed
+2024-06-09 03:49:30.733 INFO  (coreLoadExecutor-11-thread-1) [ x:octo-spoon] o.a.s.r.ManagedResourceStorage Loaded LinkedHashMap at path _schema_analysis_stopwords_english.json using file:dir=D:\ChatBot\solr\solr-9.4.0\server\solr\octo-spoon\conf
+2024-06-09 03:49:30.733 INFO  (coreLoadExecutor-11-thread-1) [ x:octo-spoon] o.a.s.r.ManagedResource Loaded initArgs {ignoreCase=true} for /schema/analysis/stopwords/english
+2024-06-09 03:49:30.733 INFO  (coreLoadExecutor-11-thread-1) [ x:octo-spoon] o.a.s.r.s.a.ManagedWordSetResource Loaded 35 words for /schema/analysis/stopwords/english
+2024-06-09 03:49:30.733 INFO  (coreLoadExecutor-11-thread-1) [ x:octo-spoon] o.a.s.r.ManagedResource Notified 2 observers of /schema/analysis/stopwords/english
+2024-06-09 03:49:30.736 INFO  (coreLoadExecutor-11-thread-1) [ x:octo-spoon] o.a.s.r.ManagedResourceStorage Loaded LinkedHashMap at path _schema_analysis_synonyms_english.json using file:dir=D:\ChatBot\solr\solr-9.4.0\server\solr\octo-spoon\conf
+2024-06-09 03:49:30.736 INFO  (coreLoadExecutor-11-thread-1) [ x:octo-spoon] o.a.s.r.ManagedResource Loaded initArgs {ignoreCase=true, format=solr} for /schema/analysis/synonyms/english
+2024-06-09 03:49:30.737 INFO  (coreLoadExecutor-11-thread-1) [ x:octo-spoon] o.a.s.r.s.a.ManagedSynonymGraphFilterFactory Loaded 3 synonym mappings for /schema/analysis/synonyms/english
+2024-06-09 03:49:30.738 INFO  (coreLoadExecutor-11-thread-1) [ x:octo-spoon] o.a.s.r.ManagedResource Notified 2 observers of /schema/analysis/synonyms/english
+2024-06-09 03:49:30.765 INFO  (coreLoadExecutor-11-thread-1) [ x:octo-spoon] o.a.s.s.DirectSolrSpellChecker init: {maxEdits=2, minPrefix=1, maxInspections=5, minQueryLength=4, accuracy=0.5, maxQueryFrequency=0.01, name=default, field=text, classname=solr.DirectSolrSpellChecker, distanceMeasure=internal}
+2024-06-09 03:49:30.780 INFO  (coreLoadExecutor-11-thread-1) [ x:octo-spoon] o.a.s.h.c.SuggestComponent Initializing SuggestComponent
+2024-06-09 03:49:30.783 INFO  (coreLoadExecutor-11-thread-1) [ x:octo-spoon] o.a.s.s.s.SolrSuggester init: {name=mySuggester, lookupImpl=FuzzyLookupFactory, dictionaryImpl=DocumentDictionaryFactory, field=cat, weightField=price, suggestAnalyzerFieldType=string, buildOnStartup=false}
+2024-06-09 03:49:30.803 INFO  (coreLoadExecutor-11-thread-1) [ x:octo-spoon] o.a.s.s.s.SolrSuggester Dictionary loaded with params: {name=mySuggester, lookupImpl=FuzzyLookupFactory, dictionaryImpl=DocumentDictionaryFactory, field=cat, weightField=price, suggestAnalyzerFieldType=string, buildOnStartup=false}
+2024-06-09 03:49:30.825 INFO  (coreLoadExecutor-11-thread-1) [ x:octo-spoon] o.a.s.h.ReplicationHandler Commits will be reserved for 10000 ms
+2024-06-09 03:49:30.938 INFO  (searcherExecutor-13-thread-1-processing-octo-spoon) [ x:octo-spoon] o.a.s.c.S.Request webapp=null path=null params={q=static+firstSearcher+warming+in+solrconfig.xml&distrib=false&event=firstSearcher} hits=6 status=0 QTime=93
+2024-06-09 03:49:30.962 INFO  (searcherExecutor-13-thread-1-processing-octo-spoon) [ x:octo-spoon] o.a.s.c.QuerySenderListener QuerySenderListener done.
+2024-06-09 03:49:30.962 INFO  (searcherExecutor-13-thread-1-processing-octo-spoon) [ x:octo-spoon] o.a.s.h.c.SpellCheckComponent Loading spell index for spellchecker: default
+2024-06-09 03:49:30.962 INFO  (searcherExecutor-13-thread-1-processing-octo-spoon) [ x:octo-spoon] o.a.s.h.c.SpellCheckComponent Loading spell index for spellchecker: wordbreak
+2024-06-09 03:49:30.974 INFO  (searcherExecutor-13-thread-1-processing-octo-spoon) [ x:octo-spoon] o.a.s.c.SolrCore Registered new searcher autowarm time: 0 ms
+2024-06-09 05:42:48.758 INFO  (qtp854733477-25) [ x:octo-spoon t:localhost-5] o.a.s.c.S.Request webapp=/solr path=/select params={q=*:*&indent=true&q.op=OR&useParams=&_=1717911768659} hits=7 status=0 QTime=36
+2024-06-09 05:42:48.797 INFO  (qtp854733477-26) [ x:octo-spoon t:localhost-6] o.a.s.c.S.Request webapp=/solr path=/config/params params={wt=json&_=1717911768659} status=0 QTime=75
+2024-06-09 05:42:48.797 INFO  (qtp854733477-27) [ t:localhost-3] o.a.s.s.HttpSolrCall [admin] webapp=null path=/admin/cores params={indexInfo=false&wt=json&_=1717911767775} status=0 QTime=79
+2024-06-09 05:42:48.976 INFO  (qtp854733477-18) [ t:localhost-4] o.a.s.s.HttpSolrCall [admin] webapp=null path=/admin/info/system params={wt=json&_=1717911767776} status=0 QTime=257
